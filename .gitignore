@@ -1,0 +1,4 @@
+/vendor/*
+/Tests/env/local/
+/package-template
+/.idea
